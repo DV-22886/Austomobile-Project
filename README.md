@@ -15,9 +15,12 @@ Understand customer demographics and purchasing behavior
 Identify factors influencing automobile purchases
 Analyze relationships between salary, loans, gender, marital status, and car preference
 Provide data-driven recommendations for marketing strategy improvement
+<img width="984" height="548" alt="1" src="https://github.com/user-attachments/assets/8da00030-c5a9-4c99-9f19-1fbd45c9a52b" />
+
 <img width="987" height="551" alt="Capture" src="https://github.com/user-attachments/assets/0e1c402b-3dd7-48ad-bd79-b9b44d79c7a4" />
 
 
+<img width="618" height="394" alt="image" src="https://github.com/user-attachments/assets/fbf2d380-6519-419d-9cb8-7706cb2a0d99" />
 
 
 📊 Dataset Description
@@ -45,6 +48,8 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook / Google Colab
+
+
 📈 Analysis Performed
 
 The project includes:

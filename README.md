@@ -6,7 +6,7 @@ This project analyzes customer and automobile purchase data for Austo Motor Comp
 The goal is to perform exploratory data analysis (EDA) and generate business insights to improve marketing strategies and customer targeting.
 
 The analysis is done using Python and focuses on understanding customer behavior, income patterns, loans, and automobile preferences.
-Austomobile.pbix
+
 🎯 Objective
 
 The main objective of this project is to:
@@ -15,6 +15,11 @@ Understand customer demographics and purchasing behavior
 Identify factors influencing automobile purchases
 Analyze relationships between salary, loans, gender, marital status, and car preference
 Provide data-driven recommendations for marketing strategy improvement
+<img width="987" height="551" alt="Capture" src="https://github.com/user-attachments/assets/0e1c402b-3dd7-48ad-bd79-b9b44d79c7a4" />
+
+
+
+
 📊 Dataset Description
 
 The dataset includes the following features:
